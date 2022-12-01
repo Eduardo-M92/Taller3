@@ -1,0 +1,6 @@
+AvancePerpetuo, PC, P, 200
+HerculesX-13, PP,B, 1500
+IronTorax, PE,T, 1000
+CascoMinero, PP,C, 200, 500
+CascoDeDiamante, PE,C, 200, 600
+CascoNetherite, PP,C, 300, 800

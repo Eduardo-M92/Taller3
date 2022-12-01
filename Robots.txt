@@ -1,0 +1,6 @@
+GurrenBox, GigaDrill, AvancePerpetuo, HerculesX-13, IronTorax, CascoDeDiamante, H, CapitanHalcon, SK33
+BandaX, GigaDrill, AvancePerpetuo, HerculesX-13, IronTorax, CascoMinero, H, AgenteP, 007
+LilSinas, GigaDrill, AvancePerpetuo, HerculesX-13, IronTorax, CascoNetherite, H, CapitanHalcon, 007
+SworDan, GarraInfinita, PiesGusano, Brazos de araña, Pectorales de Saltamones, CabezaHydra, A,500, SS+
+GraySim, GarraInfinita, PiesGusano, Brazos de araña, Pectorales de Saltamones, CabezaHydra, A, 1000, S+
+FimosLux, GarraInfinita, PiesGusano, Brazos de araña, Pectorales de Saltamones, CabezaHydra, A,1000, A
